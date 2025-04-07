@@ -21,3 +21,4 @@ Créer une plateforme simple mais efficace pour :
 ![Image](https://github.com/user-attachments/assets/ae50b344-8442-498a-b8fe-2a07583d6020)
 
 ## 5. 🎯 modèle conceptuel de la base généré
+![Image](https://github.com/user-attachments/assets/c2f3f15a-4e71-4b9f-8002-3d1e5a1c7cea)
