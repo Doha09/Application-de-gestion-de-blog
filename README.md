@@ -24,3 +24,8 @@ Créer une plateforme simple mais efficace pour :
 ![Image](https://github.com/user-attachments/assets/c2f3f15a-4e71-4b9f-8002-3d1e5a1c7cea)
 
 ## 6. 🎯 exécution des tests dans la console
+<img width="402" alt="Image" src="https://github.com/user-attachments/assets/be8f812e-b4c8-4b9a-b6c5-911f34585eaf" />
+
+<img width="342" alt="Image" src="https://github.com/user-attachments/assets/23694544-540a-4af6-b360-92a96b7e67d2" />
+
+<img width="293" alt="Image" src="https://github.com/user-attachments/assets/b90139a3-51ad-4334-843d-4bc027a2cc1f" />
