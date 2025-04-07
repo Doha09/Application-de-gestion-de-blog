@@ -19,3 +19,5 @@ Créer une plateforme simple mais efficace pour :
 
 ## 4. 📊 Diagramme de classes
 ![Image](https://github.com/user-attachments/assets/ae50b344-8442-498a-b8fe-2a07583d6020)
+
+## 5. 🎯 modèle conceptuel de la base généré
