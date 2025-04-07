@@ -22,3 +22,5 @@ Créer une plateforme simple mais efficace pour :
 
 ## 5. 🎯 modèle conceptuel de la base généré
 ![Image](https://github.com/user-attachments/assets/c2f3f15a-4e71-4b9f-8002-3d1e5a1c7cea)
+
+## 6. 🎯 exécution des tests dans la console
