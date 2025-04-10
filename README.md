@@ -18,7 +18,7 @@ Créer une plateforme simple mais efficace pour :
 - Structurer les données autour de 4 entités : Article, Commentaire, Categorie, User
 
 ## 4. 📊 Diagramme de classes
-<img width="386" alt="Image" src="https://github.com/user-attachments/assets/97a6c8ad-1263-4ca6-9c28-156d066b1a37" />
+<img width="398" alt="Image" src="https://github.com/user-attachments/assets/16d1f33b-e097-4ef2-8143-f9b0e6f0500b" />
 
 ## 5. 🎯 modèle conceptuel de la base généré
 ![Image](https://github.com/user-attachments/assets/c2f3f15a-4e71-4b9f-8002-3d1e5a1c7cea)
