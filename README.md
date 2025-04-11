@@ -21,7 +21,7 @@ Créer une plateforme simple mais efficace pour :
 <img width="398" alt="Image" src="https://github.com/user-attachments/assets/16d1f33b-e097-4ef2-8143-f9b0e6f0500b" />
 
 ## 5. 🎯 modèle conceptuel de la base généré
-![Image](https://github.com/user-attachments/assets/c2f3f15a-4e71-4b9f-8002-3d1e5a1c7cea)
+<img width="581" alt="Image" src="https://github.com/user-attachments/assets/e5bfbd37-f4dc-45b2-9d9d-5143cb573931" />
 
 ## 6. 🎯 exécution des tests dans la console
 <img width="402" alt="Image" src="https://github.com/user-attachments/assets/be8f812e-b4c8-4b9a-b6c5-911f34585eaf" />
